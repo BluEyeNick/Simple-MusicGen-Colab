@@ -1,6 +1,12 @@
 # MusicGen Colab Notebook
 
-This Jupyter notebook provides an easy interface for generating musical audio using Facebook's MusicGen AI model. It allows anyone to quickly generate original music clips by simply providing text prompts.
+This Jupyter notebook provides an easy interface for generating musical audio using Facebook's MusicGen AI model. It allows anyone to quickly generate original music clips by simply providing text prompts. It requires no Coding experience
+
+## Links
+
+Simple Version: https://colab.research.google.com/drive/18YA3URCoHyPnFKXQvQOCJUr6KQ-wKM_v?usp=sharing
+
+Advanced Version: https://colab.research.google.com/drive/1uHJy07NGMhHUtQBVoEEEUN0m45ztpFN3?usp=sharing
 
 ## Features
 
@@ -40,3 +46,4 @@ By packaging this logic into an easy-to-use Colab notebook, this tool makes AI m
 ## Credits
 
 MusicGen model and audiocraft library developed by Facebook AI Research. Notebook created by BluEyeNick.
+
